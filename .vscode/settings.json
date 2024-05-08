@@ -1,0 +1,11 @@
+{
+    "problems.showCurrentInStatus": true,
+    "editor.suggest.showStatusBar": true,
+    "files.autoSaveDelay": 600,
+    "files.autoSave": "afterDelay",
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#183137",
+        "titleBar.activeBackground": "#21454D",
+        "titleBar.activeForeground": "#F7FAFB"
+    }
+}
